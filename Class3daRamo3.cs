@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Figlio1Lib
+{
+    internal class Class3daRamo3
+    {
+    }
+}
